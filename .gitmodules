@@ -1,0 +1,3 @@
+[submodule "modules/gltf"]
+	path = modules/gltf
+	url = https://github.com/V-Sekai/godot-gltf-module
